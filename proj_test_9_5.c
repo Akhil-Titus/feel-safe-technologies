@@ -1,7 +1,7 @@
 #include <SoftwareSerial.h>
 
 //sender phone number with country code
-const String PHONE = "+919207807971";
+const String PHONE = "+91xxxxxxxxxx";
 
 //GSM Module RX pin to Arduino 3
 //GSM Module TX pin to Arduino 2
